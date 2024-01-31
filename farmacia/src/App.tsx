@@ -3,7 +3,7 @@ import Footer from "./components/footer/Footer"
 import Navbar from "./components/navbar/Navbar"
 import Home from "./pages/home/Home"
 import FormCategoria from "./components/categorias/formCategoria/FormCategoria"
-import DeletarCategoria from "./components/categorias/deletarCategoria/DeletetarCategoria"
+import DeletarCategoria from "./components/categorias/deletarCategoria/DeletarCategoria"
 import ListaCategoria from "./components/categorias/listaCategoria/ListaCategoria"
 
 function App() {
